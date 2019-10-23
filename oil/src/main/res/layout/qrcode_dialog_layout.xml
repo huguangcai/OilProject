@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="270dp"
+    android:layout_gravity="center"
+    android:background="@drawable/white_shape_bg"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/img_save_qrcode"
+        android:layout_width="260dp"
+        android:layout_height="210dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:id="@+id/tv_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        android:text="保存"
+        android:textColor="@color/btn_color"
+        android:textSize="16sp" />
+
+
+</LinearLayout>

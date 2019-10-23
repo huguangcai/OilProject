@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FEA503</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#F7F7F7</color>
+
+
+    <color name="hint_text_color">#999999</color>
+    <color name="toast_bg">#cf000000</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="btn_color">#FEA503</color>
+    <color name="flow_item_color">#E6E6E6</color>
+
+    <color name="zs_color">#2103FE</color>
+    <color name="xy_color">#FEA503</color>
+    <color name="ry_color">#9103FE</color>
+    <color name="zz_color">#F83134</color>
+    <color name="color333333">#333333</color>
+    <color name="color666666">#666666</color>
+    <color name="color999999">#999999</color>
+
+</resources>
